@@ -13,8 +13,7 @@ This repository contains a collection of machine learning assignments for the Th
 
 **Dataset:** [Heart Dataset](https://www.kaggle.com/zhaoyingzhu/heartcsv)
 
-Perform the following operation on the given dataset:
-
+Perform the following operation on the given dataset:-
       A. Find Shape of Data 📏
       B. Find Missing Values ❓
       C. Find data type of each column 📋
